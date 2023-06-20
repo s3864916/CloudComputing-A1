@@ -1,0 +1,63 @@
+[
+    {
+      "email": "s38649169@student.rmit.edu.au",
+      "password": "901234",
+      "user_name": "Yung9",
+      "subscription":[]
+    },
+    {
+      "email": "s38649168@student.rmit.edu.au",
+      "password": "890123",
+      "user_name": "Yung8",
+      "subscription":[]
+    },
+    {
+      "email": "s38649167@student.rmit.edu.au",
+      "password": "789012",
+      "user_name": "Yung7",
+      "subscription":[]
+    },
+    {
+      "email": "s38649166@student.rmit.edu.au",
+      "password": "678901",
+      "user_name": "Yung6",
+      "subscription":[]
+    },
+    {
+      "email": "s38649165@student.rmit.edu.au",
+      "password": "567890",
+      "user_name": "Yung5",
+      "subscription":[]
+    },
+    {
+      "email": "s38649164@student.rmit.edu.au",
+      "password": "456789",
+      "user_name": "Yung4",
+      "subscription":[]
+    },
+    {
+      "email": "s38649163@student.rmit.edu.au",
+      "password": "345678",
+      "user_name": "Yung3",
+      "subscription":[]
+    },
+    {
+      "email": "s38649162@student.rmit.edu.au",
+      "password": "234567",
+      "user_name": "Yung2",
+      "subscription":[]
+    },
+    {
+      "email": "s38649161@student.rmit.edu.au",
+      "password": "123456",
+      "user_name": "Yung1",
+      "subscription":[]
+    },
+    {
+      "email": "s38649160@student.rmit.edu.au",
+      "password": "012345",
+      "user_name": "Yung0",
+      "subscription":[]
+    }
+  ]
+  
